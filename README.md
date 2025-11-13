@@ -160,7 +160,7 @@ References:
 - Poe part 2 feedback
 - Poe Brief
 - www.figma.com
-- www.gemini.com
+- https://gemini.google.com/
 - www.flaticon.com
 - www.unsplash.com
 - Chrome dev tools and Bluestacks (to run the app)
