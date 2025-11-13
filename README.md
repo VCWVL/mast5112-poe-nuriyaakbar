@@ -179,7 +179,7 @@ CHANGELOG:
 - The is also an "average price" feature now added on the chefs page.
 - when menu items are added,they are now saved in an array.
 - The menu page now shows the total number of menu items.
-- The chef can edit,delete and add menu items to any of the courses,eg starters,mains,desserts
+- The chef can edit,delete and add menu items to any of the courses,eg starters,mains,desserts.
 - The new items are functioned to be visible when the user or chef logs back in.
 - Users are allowed to filter by course eg starters,mains,desserts.
 - All buttons and icons are now fully funtional and implemented to work properly.
