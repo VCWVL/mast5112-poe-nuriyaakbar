@@ -166,6 +166,25 @@ References:
 - Chrome dev tools and Bluestacks (to run the app)
 
 
+CHANGELOG:
+- App is ow finally running with no errors.
+- all icons and pictures are now showing properly.
+- arrows added to help instead of scrolling.
+- profile,bookmark,cart and search screens are now all implemented and functioning.
+- A checkout page is now available once the user add to cart and wants to proceed to checkout.
+- A new bookmark icon is added.
+- There is now a quantity size implemented for the user to state the how many of each item they want and it automatically calculates the total as they increase or decrease the quantity.The total amount also shows on the cart page.
+- The number of items you have in your cart now shows in a little circle above the cart icon.
+- The logout button is now fully functional and when the user or chef logs out,it takes them back to the authentication screen.
+- The is also an "average price" feature now added on the chefs page.
+- when menu items are added,they are now saved in an array.
+- The menu page now shows the total number of menu items.
+- The chef can edit,delete and add menu items.
+- The new items are functioned to be visible when the user or chef logs back in.
+- Users are allowed to filter by course eg starters,mains,desserts.
+- All buttons and icons are now fully funtional and implemented to work properly.
+
+
 
 
 
