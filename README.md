@@ -155,9 +155,10 @@ Edit Menu Chef's Screen:
 
 
 References:
--Poe part 1 feedback
--Poe part 2 feedback
--Poe Brief
+
+- Poe part 1 feedback
+- Poe part 2 feedback
+- Poe Brief
 - www.figma.com
 - www.gemini.com
 - www.flaticon.com
