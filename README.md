@@ -154,6 +154,18 @@ Edit Menu Chef's Screen:
 
 
 
+References:
+-Poe part 1 feedback
+-Poe part 2 feedback
+-Poe Brief
+- www.figma.com
+- www.gemini.com
+- www.flaticon.com
+- www.unsplash.com
+- Chrome dev tools and Bluestacks (to run the app)
+
+
+
 
 
 
